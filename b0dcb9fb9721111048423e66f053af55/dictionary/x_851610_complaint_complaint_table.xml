@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="complaint table" max_length="40" name="x_851610_complaint_complaint_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="When needed" max_length="40" name="when_needed" type="glide_date_time"/>
+    </element>
+</database>
